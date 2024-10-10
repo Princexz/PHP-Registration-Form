@@ -49,4 +49,10 @@ For any inquiries or issues, please contact [Prince Solomon](mailto:Prince_solom
 ---
 
 
-**Disclaimer**: This tool is intended for educational purposes and should be used as a reference. Always cross-check your results with your institution's official calculations.
+**Disclaimer**: By completing this registration form, you agree to provide accurate and truthful information. We collect your personal data solely for the purpose of creating and managing your account, as well as enhancing your experience on our platform.
+
+We take your privacy seriously. Your information will be stored securely and will not be shared with third parties without your explicit consent, except as required by law. You have the right to access, correct, or delete your personal information at any time.
+
+Please note that your registration does not guarantee access to all features of our service. We reserve the right to modify or terminate your account at our discretion and without prior notice.
+
+By submitting this form, you confirm that you have read and understood this disclaimer and agree to our Terms of Service and Privacy Policy.
